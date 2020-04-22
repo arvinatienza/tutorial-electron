@@ -1,2 +1,6 @@
 # libraries
 node_modules
+
+# Editor
+*.vim
+*.swp
