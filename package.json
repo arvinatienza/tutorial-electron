@@ -10,6 +10,6 @@
   "author": "Arvin Atienza <arvin.atienza@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^8.2.3"
+    "electron": "^8.5.2"
   }
 }
